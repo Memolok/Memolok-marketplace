@@ -10,7 +10,7 @@
       "displayName": "Memolok (online)",
       "source": {
         "source": "github",
-        "repo": "Memolok/memolok-claude-plugin"
+        "repo": "Memolok/Claude-plugin"
       },
       "description": "Record decisions as durable memory — a Memolok Decision Ledger facilitator with skills for capture, deliberation, commitment, review, and outcomes, plus authenticated MCP tools."
     }
