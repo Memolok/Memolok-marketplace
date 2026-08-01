@@ -11,12 +11,9 @@ README are provider-neutral; each supported host gets its own dot-folder when we
 ## Claude
 
 1. In Claude, open **Customize → Plugins → Add → Add marketplace → Add from a repository**.
-2. Paste `https://github.com/Memolok/memolok-marketplace.git` and sync.
+2. Paste `https://github.com/Memolok/Memolok-marketplace.git` and sync.
 3. Install **Memolok** from the directory.
 
-Full step-by-step instructions for first-time setup:
-[www.memolok.ai](https://www.memolok.ai) (POC install guide).
-
 The Memolok plugin itself lives in a separate repository
-([Memolok/memolok-claude-plugin](https://github.com/Memolok/memolok-claude-plugin)); this nexus only
+([Memolok/Claude-plugin](https://github.com/Memolok/Claude-plugin)); this nexus only
 lists where to fetch it.
