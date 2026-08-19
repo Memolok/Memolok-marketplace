@@ -8,6 +8,7 @@
     {
       "name": "memolok",
       "displayName": "Memolok (online)",
+      "version": "0.19.0-alpha",
       "source": {
         "source": "url",
         "url": "https://github.com/Memolok/Claude-plugin.git"
