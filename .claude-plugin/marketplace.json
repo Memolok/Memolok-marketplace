@@ -1,19 +1,19 @@
 {
   "name": "memolok",
   "owner": {
-    "name": "Memolok Inc.",
+    "name": "Memonos",
     "url": "https://www.memolok.ai"
   },
   "plugins": [
     {
       "name": "memolok",
       "displayName": "Memolok (online)",
-      "version": "0.19.0-alpha",
+      "description": "Record decisions as durable memory — a Memolok Decision Ledger facilitator with skills for capture, deliberation, commitment, review, and outcomes, plus authenticated MCP tools.",
+      "version": "0.20.0-beta",
       "source": {
         "source": "url",
         "url": "https://github.com/Memolok/Claude-plugin.git"
-      },
-      "description": "Record decisions as durable memory — a Memolok Decision Ledger facilitator with skills for capture, deliberation, commitment, review, and outcomes, plus authenticated MCP tools."
+      }
     }
   ]
 }
