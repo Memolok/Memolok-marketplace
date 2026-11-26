@@ -1,12 +1,8 @@
 # Memolok agent integrations
 
-This repository is Memolok's public distribution nexus for agent hosts. The repo name and this
-README are provider-neutral; a host gets its own dot-folder only when it cannot read one already
-here.
+This repository is Memolok's public distribution nexus for agent hosts. The repo name and this README are provider-neutral; a host gets its own dot-folder only when it cannot read one already here.
 
-The Memolok plugin itself lives in a separate repository
-([Memolok/Claude-plugin](https://github.com/Memolok/Claude-plugin)); this nexus only
-lists where to fetch it.
+The Memolok plugin itself lives in a separate repository ([Memolok/Claude-plugin](https://github.com/Memolok/Claude-plugin)); this nexus only lists where to fetch it.
 
 | Host | Catalog | Install |
 | --- | --- | --- |
